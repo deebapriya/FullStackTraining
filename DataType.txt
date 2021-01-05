@@ -1,0 +1,34 @@
+package com.company;
+
+public class DataType {
+    public static void main(String[] args) {
+        // write your code here
+        int a = 10;
+        boolean flag = true;
+        short temperature = 200;
+        byte b = 127;
+        double d = 42.5;
+        float r = 42.5f;
+        long l = 4288774l;
+        String s ="Jason";
+        System.out.println("The value of a = "+a);
+
+        System.out.println(flag);
+
+        System.out.println("The value of temperature = "+temperature);
+
+        System.out.println("The value of b = "+b);
+
+        System.out.println("The value of d = "+d);
+
+        System.out.println("The value of r = "+r);
+
+        System.out.println("The value of l = "+l);
+
+
+        System.out.println("The value of s = "+s);
+
+
+
+    }
+}
